@@ -9,4 +9,5 @@ Authors:
 
 # **Student Graduate Application System Documentation:**
 
-### **Abstract**
+### **How it Works**
+### ****
