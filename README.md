@@ -1,7 +1,10 @@
 # **Student Graduate Application System**
 
 Authors:
-[Bryce Leung](https://github.com/Bryce-Leung)
+[Bryce Leung](https://github.com/Bryce-Leung),
+[Thomas Kingsman],
+[Samanjot Waraich],
+[Suyuan Liu]
 
 
 # Contents:
