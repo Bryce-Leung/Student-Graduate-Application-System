@@ -2,9 +2,9 @@
 
 Authors:
 [Bryce Leung](https://github.com/Bryce-Leung),
-[Thomas Kingsman],
-[Samanjot Waraich],
-[Suyuan Liu]
+Thomas Kingsman,
+Samanjot Waraich,
+Suyuan Liu
 
 
 # Contents:
